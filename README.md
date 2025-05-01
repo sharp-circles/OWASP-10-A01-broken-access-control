@@ -1,2 +1,3 @@
 # OWASP-10-A01-broken-access-control
-High level implementation of Microsoft.AspNetCore.Authentication.JwtBearer .NET nugget package
+
+.NET high-level abstraction for Microsoft.AspNetCore.Authentication.JwtBearer, offering cohesive, logically divided implementation and dynamic behavior through configuration.
